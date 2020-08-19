@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.carousel-inner img{
+	width: 100%;
+	height: 89vh;
+}
+.carousel-caption h4{
+	font-size: 16px;
+	margin-top: 50px;
+}
+.carousel-caption h1{
+	font-size: 60px;
+	
+}
+.carousel-caption h3{
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+#buttontwo{
+	background-color: transparent;
+	border: none;
+	text-transform: uppercase;
+	line-height: 40px;
+	border: 3px solid white;
+	width: 140px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+.logo{
+	margin-left: 100px;
+	width: 65%!important;
+	height: 180px!important;
+}
+.pic{
+	margin: 50px;
+}
+
+
+
